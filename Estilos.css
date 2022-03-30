@@ -1,0 +1,30 @@
+*{
+    font-family: 'Grenze Gotisch', cursive;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: grey;
+}
+
+.centrar{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo{
+    font-size: 45px;
+    color: #6056ff;
+    font-weight: 800;
+    margin-bottom: 25px;
+}
+
+.subtitulos{
+    font-size: 27px;
+    color: grey;
+    font-weight: 800;
+}
